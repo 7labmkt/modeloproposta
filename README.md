@@ -1,3 +1,3 @@
 # modeloproposta
 modelo oficial de Proposta Sevenlab
-"bkp_modelo" é o backup mais viusal do model
+https://proposta.7labmarketing.com.br/model/ é o backup mais viusal do model
